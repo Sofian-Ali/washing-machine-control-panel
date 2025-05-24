@@ -1,2 +1,2 @@
-# washing-machine-control-panel
-Overview
+# Washing Machine Control Panel
+# Overview
